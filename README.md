@@ -1,3 +1,3 @@
 ### Machine_Learning
 
-A repository for future personal and Kaggle related machine learning projects. 
+A repository for university, personal and Kaggle related machine learning projects. 
